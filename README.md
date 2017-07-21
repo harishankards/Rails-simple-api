@@ -1,24 +1,15 @@
-# README
+# Rails-simple-API
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
+A simple Rails app to demonstrate the creation of API using Ruby on Rails
 
-Things you may want to cover:
+## Running
 
-* Ruby version
+```
+git clone "https://github.com/harishankards/Rails-simple-api"
+cd Rails-simple-api
+bundle
+```
 
-* System dependencies
+Then run `rails server` and open <localhost:3000> in your browser.
 
-* Configuration
-
-* Database creation
-
-* Database initialization
-
-* How to run the test suite
-
-* Services (job queues, cache servers, search engines, etc.)
-
-* Deployment instructions
-
-* ...
+## Thank you
